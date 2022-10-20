@@ -1,0 +1,140 @@
+2022.08.26 05:59:34 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\MyProjects\Scala\UdemyCatsScala\.metals\lsp.trace.json or C:\Users\somu_\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.26 05:59:35 INFO  logging to file D:\MyProjects\Scala\UdemyCatsScala\.metals\metals.log
+2022.08.26 05:59:35 INFO  Started: Metals version 0.11.8 in workspace 'D:\MyProjects\Scala\UdemyCatsScala' for client Visual Studio Code 1.69.2.
+2022.08.26 05:59:37 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.26 05:59:38 INFO  time: initialize in 2.69s
+2022.08.26 05:59:39 WARN  Build server is not auto-connectable.
+2022.08.26 05:59:50 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+Aug 26, 2022 5:59:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.08.26 06:00:01 INFO  no build target found for D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.26 06:00:03 INFO  time: code lens generation in 12s
+2022.08.26 06:00:09 INFO  shutting down Metals
+2022.08.26 06:00:29 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\MyProjects\Scala\UdemyCatsScala\.metals\lsp.trace.json or C:\Users\somu_\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.26 06:00:30 INFO  logging to file D:\MyProjects\Scala\UdemyCatsScala\.metals\metals.log
+2022.08.26 06:00:30 INFO  Started: Metals version 0.11.8 in workspace 'D:\MyProjects\Scala\UdemyCatsScala' for client Visual Studio Code 1.70.2.
+2022.08.26 06:00:31 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.26 06:00:32 INFO  time: initialize in 1.67s
+2022.08.26 06:00:33 WARN  Build server is not auto-connectable.
+2022.08.26 06:00:33 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 06:00:33 INFO  skipping build import with status 'Requested'
+2022.08.26 06:00:36 INFO  no build target found for D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.26 07:00:20 INFO  shutting down Metals
+2022.08.26 07:00:31 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\MyProjects\Scala\UdemyCatsScala\.metals\lsp.trace.json or C:\Users\somu_\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.26 07:00:32 INFO  logging to file D:\MyProjects\Scala\UdemyCatsScala\.metals\metals.log
+2022.08.26 07:00:32 INFO  Started: Metals version 0.11.8 in workspace 'D:\MyProjects\Scala\UdemyCatsScala' for client Visual Studio Code 1.70.2.
+2022.08.26 07:00:33 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.26 07:00:34 INFO  time: initialize in 1.95s
+2022.08.26 07:00:35 WARN  Build server is not auto-connectable.
+2022.08.26 07:00:35 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 07:00:35 INFO  skipping build import with status 'Requested'
+2022.08.26 07:00:38 INFO  no build target found for D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.26 07:00:40 INFO  time: code lens generation in 4.58s
+Aug 26, 2022 7:00:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2022.08.26 07:06:45 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\State.scala
+2022.08.26 07:06:49 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 08:58:06 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 08:58:11 INFO  shutting down Metals
+2022.08.26 08:59:52 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\MyProjects\Scala\UdemyCatsScala\.metals\lsp.trace.json or C:\Users\somu_\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.26 08:59:53 INFO  logging to file D:\MyProjects\Scala\UdemyCatsScala\.metals\metals.log
+2022.08.26 08:59:53 INFO  Started: Metals version 0.11.8 in workspace 'D:\MyProjects\Scala\UdemyCatsScala' for client Visual Studio Code 1.70.2.
+2022.08.26 08:59:54 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.26 08:59:55 INFO  time: initialize in 1.94s
+2022.08.26 08:59:56 WARN  Build server is not auto-connectable.
+2022.08.26 08:59:56 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 08:59:57 INFO  skipping build import with status 'Requested'
+2022.08.26 09:00:01 INFO  no build target found for D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala. Using presentation compiler with project's scala-library version: 3.1.3
+Aug 26, 2022 9:00:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Aug 26, 2022 9:00:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022.08.26 09:17:39 INFO  shutting down Metals
+2022.08.26 09:18:01 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\MyProjects\Scala\UdemyCatsScala\.metals\lsp.trace.json or C:\Users\somu_\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.26 09:18:02 INFO  logging to file D:\MyProjects\Scala\UdemyCatsScala\.metals\metals.log
+2022.08.26 09:18:02 INFO  Started: Metals version 0.11.8+38-1832a3cf-SNAPSHOT in workspace 'D:\MyProjects\Scala\UdemyCatsScala' for client Visual Studio Code 1.70.2.
+2022.08.26 09:18:04 INFO  time: initialize in 1.65s
+2022.08.26 09:18:05 WARN  Build server is not auto-connectable.
+2022.08.26 09:18:05 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 09:18:06 INFO  skipping build import with status 'Requested'
+2022.08.26 09:18:11 INFO  no build target found for D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala. Using presentation compiler with project's scala-library version: 3.1.3
+Aug 26, 2022 9:18:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2022.08.26 09:18:13 INFO  time: code lens generation in 2.25s
+2022.08.26 09:19:15 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 09:19:16 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+Aug 26, 2022 9:24:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 189
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Aug 26, 2022 9:34:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 26, 2022 9:35:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 26, 2022 9:35:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 26, 2022 9:36:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 26, 2022 9:36:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 26, 2022 9:36:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 26, 2022 9:36:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 26, 2022 9:36:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 26, 2022 9:36:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.08.26 09:36:48 INFO  shutting down Metals
+2022.08.26 09:37:18 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\MyProjects\Scala\UdemyCatsScala\.metals\lsp.trace.json or C:\Users\somu_\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.26 09:37:18 INFO  logging to file D:\MyProjects\Scala\UdemyCatsScala\.metals\metals.log
+2022.08.26 09:37:18 INFO  Started: Metals version 0.11.8+38-1832a3cf-SNAPSHOT in workspace 'D:\MyProjects\Scala\UdemyCatsScala' for client Visual Studio Code 1.70.2.
+2022.08.26 09:37:20 INFO  time: initialize in 1.67s
+2022.08.26 09:37:22 WARN  Build server is not auto-connectable.
+2022.08.26 09:37:22 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 09:37:22 INFO  skipping build import with status 'Requested'
+2022.08.26 09:37:26 INFO  no build target found for D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.26 09:37:28 INFO  time: code lens generation in 2.16s
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022.08.26 09:38:19 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 09:38:20 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 09:38:19 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 09:38:21 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 09:38:35 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+Aug 26, 2022 9:38:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2022.08.26 09:38:36 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.08.26 09:38:36 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.09.02 01:22:21 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\MyProjects\Scala\UdemyCatsScala\.metals\lsp.trace.json or C:\Users\somu_\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.09.02 01:22:25 INFO  logging to file D:\MyProjects\Scala\UdemyCatsScala\.metals\metals.log
+2022.09.02 01:22:25 INFO  Started: Metals version 0.11.8+38-1832a3cf-SNAPSHOT in workspace 'D:\MyProjects\Scala\UdemyCatsScala' for client Visual Studio Code 1.70.2.
+2022.09.02 01:22:34 INFO  time: initialize in 8.89s
+2022.09.02 01:22:40 WARN  Build server is not auto-connectable.
+2022.09.02 01:22:40 WARN  no build target for: D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala
+2022.09.02 01:22:41 INFO  skipping build import with status 'Requested'
+2022.09.02 01:22:57 INFO  no build target found for D:\MyProjects\Scala\UdemyCatsScala\src\main\scala\youtube\StateMonadMichaelPilquist\SocialServiceV2.scala. Using presentation compiler with project's scala-library version: 3.1.3
